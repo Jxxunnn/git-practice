@@ -2,14 +2,11 @@ team: Lions
 
 manager: Mary
 
-<<<<<<< HEAD
-coach: Nicolas
-=======
 coach: Melissa
->>>>>>> 51114f2 (Edit Leopards, Edit Panthers)
 
 members:
   - Thomas
   - Karen
   - Margaret
   - Olivia
+  - Evie
